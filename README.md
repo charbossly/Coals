@@ -23,7 +23,7 @@
     <a href="https://github.com/charbossly/Coals"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/charbossly/Coals">View Demo</a>
+    <a href="https://charbossly.github.io/Coals/public/">View Demo</a>
     ·
     <a href="https://github.com/charbossly/Coals/issues">Report Bug</a>
     ·
