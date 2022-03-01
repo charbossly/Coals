@@ -168,7 +168,7 @@ See `LICENSE.txt` for more information.
 
 - Github - [CharbelAssogba](https://github.com/charbossly) - assoogbacharbossly@gmail.com
 - Twitter - [@assogba_charbel](https://www.twitter.com/assogba_charbel
-- Project Link: [https://github.com/your_username/repo_name](https://github.com/charbossly/Coals)
+- Project Link: [https://github.com/charbossly/Coals](https://github.com/charbossly/Coals)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
